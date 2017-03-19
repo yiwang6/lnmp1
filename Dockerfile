@@ -1,4 +1,4 @@
-FROM centos
+FROM yiwang6/lnmp
 MAINTAINER YiWanG <admin@yiwang6.cn>
 
     
